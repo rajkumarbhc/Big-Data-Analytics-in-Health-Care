@@ -1,0 +1,2 @@
+# Assignment 1
+Used Python in predicting patient mortality analysis. Did preliminary descriptive statistics analysis, constructed features selection process, created machine learning models using logistic regression, support vector machine learning, and decision tree. Analyzed performance of the models, using accuracy, area under the curve (AUC), precision, recall, F-score, K-fold and randomized K-fold validation.
