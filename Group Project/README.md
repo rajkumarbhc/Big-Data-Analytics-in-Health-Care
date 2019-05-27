@@ -1,6 +1,6 @@
 # Mortality Prediction in ICU Big Data Group Project
 
-Note: Please download the zipped files which contains the code for this project. 
+Note: Please download the zipped folder which contains the code for this project. 
 
 Data source: MIMIC-III.
 
